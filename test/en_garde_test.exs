@@ -1,0 +1,8 @@
+defmodule EnGardeTest do
+  use ExUnit.Case
+  doctest EnGarde
+
+  test "the truth" do
+    assert 1 + 1 == 2
+  end
+end
